@@ -1,0 +1,2 @@
+# learning
+attempting a portfolio
